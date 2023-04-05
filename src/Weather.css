@@ -1,12 +1,8 @@
 .Weather {
-  justify-content: space-evenly;
-  max-width: 640px;
-  background-color: #445174;
+  background-color: #345375;
   border-radius: 20px;
-  margin: 40px auto;
   padding: 20px;
-  width: 100%;
-  border: thick double #04202b;
+  border: thick double #dde7eb;
 }
 .Weather h1 {
   font-size: 68px;
